@@ -1,0 +1,11 @@
+XPath by Attribute:
+Grocery://img[@alt='Grocery']
+Mobile://img[@alt='Mobile']
+Fashion://img[@alt='Fashion']
+Electronics://img[@alt='Electronics']
+Home://img[@alt='Home']
+Appliances://img[@alt='Appliances']
+Travel://img[@alt='Travel']
+Top offers://img[@alt='Top offers']
+Beauty toys & more://img[@alt='Beauty toys & more]
+Two Wheelers://img[@alt='Two Wheelers']
